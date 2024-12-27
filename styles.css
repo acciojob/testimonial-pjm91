@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.Author {
+    text-align: right;
+    font-style: italic;
+    margin-top: 15px;
+    color: #333;
+
+.Main-Container{
+	padding:30px;
+	background-color:#f5f5f5;
+	
+}
+
+.text{
+	font-size:16px
+}
+.testimonial{
+	font-size: 16px;
+    line-height: 1.6;
+}
